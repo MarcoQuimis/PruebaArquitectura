@@ -10,8 +10,7 @@ package prueba1;
  * @author Marco-Quimis
  */
 public class main {
-    /*Esto lo edita el Usuario 1*/
-    /* Esto lo edita el usuario 2*/
-    /*Esto lo hice despues desde arriba*/
+    /**Elimine todo */
+    
     
 }
